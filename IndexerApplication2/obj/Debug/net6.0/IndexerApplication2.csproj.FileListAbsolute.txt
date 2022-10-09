@@ -1,0 +1,15 @@
+D:\C#\IndexerApplication2\bin\Debug\net6.0\IndexerApplication2.exe
+D:\C#\IndexerApplication2\bin\Debug\net6.0\IndexerApplication2.deps.json
+D:\C#\IndexerApplication2\bin\Debug\net6.0\IndexerApplication2.runtimeconfig.json
+D:\C#\IndexerApplication2\bin\Debug\net6.0\IndexerApplication2.dll
+D:\C#\IndexerApplication2\bin\Debug\net6.0\IndexerApplication2.pdb
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.csproj.AssemblyReference.cache
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.AssemblyInfoInputs.cache
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.AssemblyInfo.cs
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.csproj.CoreCompileInputs.cache
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.dll
+D:\C#\IndexerApplication2\obj\Debug\net6.0\refint\IndexerApplication2.dll
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.pdb
+D:\C#\IndexerApplication2\obj\Debug\net6.0\IndexerApplication2.genruntimeconfig.cache
+D:\C#\IndexerApplication2\obj\Debug\net6.0\ref\IndexerApplication2.dll

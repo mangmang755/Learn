@@ -1,0 +1,15 @@
+D:\C#\Reflection2\bin\Debug\net6.0\Reflection2.exe
+D:\C#\Reflection2\bin\Debug\net6.0\Reflection2.deps.json
+D:\C#\Reflection2\bin\Debug\net6.0\Reflection2.runtimeconfig.json
+D:\C#\Reflection2\bin\Debug\net6.0\Reflection2.dll
+D:\C#\Reflection2\bin\Debug\net6.0\Reflection2.pdb
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.csproj.AssemblyReference.cache
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.AssemblyInfoInputs.cache
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.AssemblyInfo.cs
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.csproj.CoreCompileInputs.cache
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.dll
+D:\C#\Reflection2\obj\Debug\net6.0\refint\Reflection2.dll
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.pdb
+D:\C#\Reflection2\obj\Debug\net6.0\Reflection2.genruntimeconfig.cache
+D:\C#\Reflection2\obj\Debug\net6.0\ref\Reflection2.dll

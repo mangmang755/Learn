@@ -1,0 +1,15 @@
+D:\C#\AttributeLearn3\bin\Debug\net6.0\AttributeLearn3.exe
+D:\C#\AttributeLearn3\bin\Debug\net6.0\AttributeLearn3.deps.json
+D:\C#\AttributeLearn3\bin\Debug\net6.0\AttributeLearn3.runtimeconfig.json
+D:\C#\AttributeLearn3\bin\Debug\net6.0\AttributeLearn3.dll
+D:\C#\AttributeLearn3\bin\Debug\net6.0\AttributeLearn3.pdb
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.csproj.AssemblyReference.cache
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.AssemblyInfoInputs.cache
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.AssemblyInfo.cs
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.csproj.CoreCompileInputs.cache
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.dll
+D:\C#\AttributeLearn3\obj\Debug\net6.0\refint\AttributeLearn3.dll
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.pdb
+D:\C#\AttributeLearn3\obj\Debug\net6.0\AttributeLearn3.genruntimeconfig.cache
+D:\C#\AttributeLearn3\obj\Debug\net6.0\ref\AttributeLearn3.dll

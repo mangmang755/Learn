@@ -1,0 +1,15 @@
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.csproj.AssemblyReference.cache
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.AssemblyInfoInputs.cache
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.AssemblyInfo.cs
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.csproj.CoreCompileInputs.cache
+D:\C#\AbstractProperties\bin\Debug\net6.0\AbstractProperties.exe
+D:\C#\AbstractProperties\bin\Debug\net6.0\AbstractProperties.deps.json
+D:\C#\AbstractProperties\bin\Debug\net6.0\AbstractProperties.runtimeconfig.json
+D:\C#\AbstractProperties\bin\Debug\net6.0\AbstractProperties.dll
+D:\C#\AbstractProperties\bin\Debug\net6.0\AbstractProperties.pdb
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.dll
+D:\C#\AbstractProperties\obj\Debug\net6.0\refint\AbstractProperties.dll
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.pdb
+D:\C#\AbstractProperties\obj\Debug\net6.0\AbstractProperties.genruntimeconfig.cache
+D:\C#\AbstractProperties\obj\Debug\net6.0\ref\AbstractProperties.dll

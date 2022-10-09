@@ -1,0 +1,15 @@
+D:\C#\Anonymous methods\bin\Debug\net6.0\Anonymous methods.exe
+D:\C#\Anonymous methods\bin\Debug\net6.0\Anonymous methods.deps.json
+D:\C#\Anonymous methods\bin\Debug\net6.0\Anonymous methods.runtimeconfig.json
+D:\C#\Anonymous methods\bin\Debug\net6.0\Anonymous methods.dll
+D:\C#\Anonymous methods\bin\Debug\net6.0\Anonymous methods.pdb
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.csproj.AssemblyReference.cache
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.AssemblyInfoInputs.cache
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.AssemblyInfo.cs
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.csproj.CoreCompileInputs.cache
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.dll
+D:\C#\Anonymous methods\obj\Debug\net6.0\refint\Anonymous methods.dll
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.pdb
+D:\C#\Anonymous methods\obj\Debug\net6.0\Anonymous methods.genruntimeconfig.cache
+D:\C#\Anonymous methods\obj\Debug\net6.0\ref\Anonymous methods.dll

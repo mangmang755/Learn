@@ -1,0 +1,15 @@
+D:\C#\VirtualOverride\bin\Debug\net6.0\VirtualOverride.exe
+D:\C#\VirtualOverride\bin\Debug\net6.0\VirtualOverride.deps.json
+D:\C#\VirtualOverride\bin\Debug\net6.0\VirtualOverride.runtimeconfig.json
+D:\C#\VirtualOverride\bin\Debug\net6.0\VirtualOverride.dll
+D:\C#\VirtualOverride\bin\Debug\net6.0\VirtualOverride.pdb
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.csproj.AssemblyReference.cache
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.AssemblyInfoInputs.cache
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.AssemblyInfo.cs
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.csproj.CoreCompileInputs.cache
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.dll
+D:\C#\VirtualOverride\obj\Debug\net6.0\refint\VirtualOverride.dll
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.pdb
+D:\C#\VirtualOverride\obj\Debug\net6.0\VirtualOverride.genruntimeconfig.cache
+D:\C#\VirtualOverride\obj\Debug\net6.0\ref\VirtualOverride.dll
